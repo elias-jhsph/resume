@@ -6,7 +6,7 @@
 **Email:** [eweston4@jhu.edu](mailto:eweston4@jhu.edu)
 
 
-A highly experienced Data Engineer with a robust skill set in Python, R, and JavaScript, and a proven track record of leveraging data-driven solutions to drive project success. To see a few public coding examples check out my [GitHub](https://github.com/elias-jhsph).
+Experienced Data Engineer with management experience looking to transition into the Progressive Tech space. To see a few public coding examples check out my [GitHub](https://github.com/elias-jhsph).
 
 ---
 
