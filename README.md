@@ -6,7 +6,7 @@
 **Email:** [eweston4@jhu.edu](mailto:eweston4@jhu.edu)
 
 
-Experienced Data Engineer with management experience looking to transition into the Progressive Tech space. To see a few public coding examples check out my [GitHub](https://github.com/elias-jhsph).
+Experienced Data Engineer with management experience looking to transition into Progressive Tech. To see a few public coding examples check out my [GitHub](https://github.com/elias-jhsph).
 
 ---
 
