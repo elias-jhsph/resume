@@ -56,7 +56,7 @@ Bachelor of Science in Environmental Science & Geography and Bachelor of Arts in
 ## Progressive Tech Experience
 
 - **CTCL Civic Data Fellowship:** Collected and cleaned ballot data for the 2018 midterms and learned about the idiosyncrasies of many state, county, and city level elections
-- **Generation Data Training:** Experience with Voter File Data Visualization, NGPVAN admin, SQL, BigQuery, Looker Studio, and Campaign Strategy
+- **Generation Data Training:** Experience with Voter File Data Visualization, NGPVAN admin, BigQuery, Looker Studio, and Campaign Strategy
 
 ---
 
