@@ -53,14 +53,17 @@ Bachelor of Science in Environmental Science & Geography and Bachelor of Arts in
 
 ---
 
+## Progressive Tech Experience
+
+- **CTCL Civic Data Fellowship:** Collected and cleaned ballot data for the 2018 midterms and learned about the idosyncracies of many state, county, and city level elections
+- **Generation Data Training:** Experience with Voter File Data Visualization, NGPVAN admin, SQL, BigQuery, Looker Studio, and Campaign Strategy
+
+---
+
 ## Personal Coding Projects
 
 - **RSmartsheet:** Developed an R package to interface with Smartsheet. Used by a small team at the Oregon Health Authority.
 - **SearchIt:** Designed an application for conducting systematic web searches from a list of search terms. Used by Civicly Envolved to gather candidate data.
 - **Jarvis:** Created a packaged voice assistant Mac application. Demonstrates my experience building integrating ChatGPT into standalone python apps.
 
----
 
-## Notable Committee Work
-
-At the direction of Dean MacKenzie of the Johns Hopkins School of Public Health, I served as a highly influential member of the Staff Assembly Planning Committee. I wrote large sections of the Bylaws and created the infrastructure to run the Nomination and Election Process.
