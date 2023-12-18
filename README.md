@@ -12,8 +12,13 @@ Experienced Data Engineer with management experience looking to transition into 
 
 ## Work Experience
 
+### Senior Cloud Engineer & Data Manager
+**Johns Hopkins School of Public Health, Baltimore** | 2023 – Present
+
+-	Built a system to automate DSMB Report Generation
+
 ### Senior Research App Developer & Data Manager
-**Johns Hopkins School of Public Health, Baltimore** | 2020 – Present
+**Johns Hopkins School of Public Health, Baltimore** | 2020 – 2023
 
 -	Led a team of 6 coders to roll out an advanced analytic dataset system (a GCP project) providing training, coaching, and conducting code reviews to ensure coding standards.
 -	Developed a system to identify, track, & email data issues across all studies, resulting in the timely publication of a major study in the New England Journal of Medicine.
