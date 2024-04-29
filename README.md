@@ -2,11 +2,12 @@
 ## Data Engineer / Data Manager
 
 **Location:** Baltimore  
-**Phone:** 6094429837  
+**Phone:** 609-442-9837  
 **Email:** [eweston4@jhu.edu](mailto:eweston4@jhu.edu)
 
+Accomplished Data Engineer and Manager with a proven track record in developing sophisticated data systems and enhancing data operations using advanced cloud technologies. Expert in deploying scalable systems, automating data workflows, and leading development teams to drive innovation and efficiency in academic and research environments.
 
-Experienced Data Engineer with management experience looking to transition into Progressive Tech. To see a few public coding examples check out my [GitHub](https://github.com/elias-jhsph).
+**GitHub:** [https://github.com/elias-jhsph](https://github.com/elias-jhsph)
 
 ---
 
@@ -15,61 +16,49 @@ Experienced Data Engineer with management experience looking to transition into 
 ### Senior Cloud Engineer & Data Manager
 **Johns Hopkins School of Public Health, Baltimore** | 2023 – Present
 
--	Built a system to automate DSMB Report Generation
+- Engineered and implemented an automated system for DSMB Report Generation, leveraging advanced task queuing mechanisms to increase reporting efficiency and reliability.
+- Led the technical split of the METRC Reports into two specialized systems, improving system responsiveness and user engagement through the implementation of HTMX and WebSockets for dynamic content updates and real-time interactions.
+- Enhanced data integration and management capabilities using Firebase, streamlining operations and improving data synchronization across distributed environments.
 
 ### Senior Research App Developer & Data Manager
 **Johns Hopkins School of Public Health, Baltimore** | 2020 – 2023
 
--	Led a team of 6 coders to roll out an advanced analytic dataset system (a GCP project) providing training, coaching, and conducting code reviews to ensure coding standards.
--	Developed a system to identify, track, & email data issues across all studies, resulting in the timely publication of a major study in the New England Journal of Medicine.
--	Collaborated with six study teams to build custom tools and reports, meeting their individual needs using 
-Selenium, Scrapy, Plotly, Shiny, GGplot, Knitr, KableExtra, TopicModels, WordCloud.
--	Co-authored two papers on the effects of Covid-19 response measures by performing their data analysis.
+- Managed a team of 6 developers to develop a comprehensive data analytics platform on GCP, significantly enhancing data processing capabilities and user satisfaction.
+- Designed and executed a system for real-time data issue tracking and notifications, facilitating rapid response measures that supported a major publication.
+- Developed tailored analytical tools and reporting solutions for research teams, integrating technologies such as Selenium, Scrapy, and Plotly.
 
 ### Research App Developer
 **Johns Hopkins School of Public Health, Baltimore** | 2019 – 2020
 
--	Built a system to store the growing administrative data associated with 30+ METRC studies, utilizing corporate APIs and a custom cross-platform Electron Application (NodeJS).
--	Designed a system capable of automating the assessment of all METRC studies utilizing three separate custom R packages hosted on GitHub, running on the GCP using a custom Python+R Docker Image.
+- Developed a robust data storage solution for managing administrative data across 30+ METRC studies, leveraging custom APIs and a cross-platform Electron application.
+- Automated the assessment and reporting for METRC studies using custom R packages and a Python+R Docker environment, enhancing operational efficiencies.
 
 ### Backend Developer and Data Scientist
 **Civicly Envolved, Chicago** | 2018 – 2019
 
--	Managed a team of interns, teaching them how to interface with partner APIs and gather, clean, and categorize important civic data independently, including geographic information using Cloud Firestore, Cloud Functions, and the Google App Engine.
--	Researched and implemented supervised and unsupervised machine learning techniques to analyze unstructured data using Pytorch.
+- Led a team of interns in designing and implementing API-based data integration and management solutions, including geospatial data analysis using Google Cloud technologies.
 
 ---
 
 ## Education
 
 **University of Maryland Baltimore County, Baltimore** | 2018  
-Bachelor of Science in Environmental Science & Geography and Bachelor of Arts in Political Science
-
-- Notable Courses: Data Structures, Structures & Interpretation of Programs, Principles of Programming
-- GPA: 3.4/4.0
+Bachelor of Science in Environmental Science & Geography  
+Bachelor of Arts in Political Science
 
 ---
 
 ## Technical Skills
 
-- **Languages:** Python, R, JavaScript (Electron Framework)
-- **Libraries/Frameworks:** Pytorch, Pandas, Flask, Selenium, Scrapy, Plotly, Mailjet, Twilio, Shapely, Geocoder, Shiny, Tidyverse, TidyText, GGplot, Knitr, KableExtra, Httr, TopicModels, WordCloud
-- **Technologies:** Docker, GitHub CI, Google Cloud Platform, ArcGIS, QGIS, Tableau
-- **Database Management:** Firebase, Firestore, SQL
-
----
-
-## Progressive Tech Experience
-
-- **Generation Data Training:** Experience with Voter File Data Visualization, NGP Van admin, BigQuery, Looker Studio, and Campaign Strategy
-- **CTCL Civic Data Fellowship:** Collected and cleaned ballot data for the 2018 midterms and learned about the idiosyncrasies of many state, county, and city level elections
+- **Languages:** Python, R, JavaScript, SQL
+- **Frameworks/Libraries:** Flask, Node.js, Pytorch, Pandas, Tidyverse, Shiny
+- **Technologies:** Docker, AWS, GCP, GitHub Actions, HTMX, WebSockets, Firebase
+- **Data Analysis Tools:** Tableau, ArcGIS, QGIS
 
 ---
 
 ## Personal Coding Projects
 
-- **RSmartsheet:** Developed an R package to interface with Smartsheet. Used by a small team at the Oregon Health Authority.
-- **SearchIt:** Designed an application for conducting systematic web searches from a list of search terms. Used by Civicly Envolved to gather candidate data.
-- **Jarvis:** Created a packaged voice assistant Mac application. Demonstrates my experience building integrating ChatGPT into standalone python apps.
-
-
+- **RSmartsheet:** Developed an R package to interface with Smartsheet. Used by health authorities to streamline project management.
+- **SearchIt:** Designed an application for conducting systematic web searches, utilized by NGOs to gather and analyze public data.
+- **Jarvis:** Created a packaged voice assistant application using OpenAI's GPT model, demonstrating capabilities in integrating AI into user-friendly applications.
