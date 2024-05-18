@@ -3,11 +3,12 @@
 
 **Location:** Baltimore  
 **Phone:** 609-442-9837  
-**Email:** [eweston4@jhu.edu](mailto:eweston4@jhu.edu)
+**Email:** [elias@eliastechlabs.com](mailto:elias@eliastechlabs.com)
 
 Accomplished Data Engineer and Manager with a proven track record in developing sophisticated data systems and enhancing data operations using advanced cloud technologies. Expert in deploying scalable systems, automating data workflows, and leading development teams to drive innovation and efficiency in academic and research environments.
 
 **GitHub:** [https://github.com/elias-jhsph](https://github.com/elias-jhsph)
+**Portfolio:** [https://eliastechlabs.com](https://eliastechlabs.com)
 
 ---
 
