@@ -33,7 +33,7 @@ jobs:
 
     - name: Convert Markdown to PDF
       run: |
-        python3 md_to_pdf.py README.md Resume-Elias-Weston-Farber.pdf
+        python3 ./md_to_pdf.py README.md Resume-Elias-Weston-Farber.pdf
 
     - name: Check for changes
       id: git_diff
