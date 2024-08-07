@@ -1,8 +1,10 @@
-# Elias Weston-Farber
-## Data Engineer / Data Manager
-**Location:** Baltimore  **Phone:** 609-442-9837  **Email:** [eliaswestonfarber@gmail.com](mailto:eliaswestonfarber@gmail.com)  
+# Elias Weston-Farber **Analytics Engineer**
+**Location:** Baltimore  **Phone:** 609-442-9837  **Email:** [eliaswestonfarber@gmail.com](mailto:eliaswestonfarber@gmail.com)  **GitHub:** [github.com/elias-jhsph](https://github.com/elias-jhsph)  **Portfolio:** [eliastechlabs.com](https://eliastechlabs.com)  
 
-Experienced Data Engineer with management experience looking to transition into Progressive Tech. Check out my github [github.com/elias-jhsph](https://github.com/elias-jhsph) and portfolio [eliastechlabs.com](https://eliastechlabs.com)  
+## Progressive Tech Experience
+
+- **Generation Data Training:** Experience with Voter File Data Visualization, NGP Van admin, BigQuery, Looker Studio, and Campaign Strategy
+- **CTCL Civic Data Fellowship:** Collected and cleaned ballot data for the 2018 midterms and learned about the idiosyncrasies of many state, county, and city level elections
 
 ---
 
@@ -54,10 +56,3 @@ Experienced Data Engineer with management experience looking to transition into 
 - **Frameworks/Libraries:** Flask, Node.js, PyTorch, Pandas, Tidyverse, Shiny
 - **Technologies:** Docker, AWS, GCP, GitHub Actions, HTMX, WebSockets, Firebase
 - **Data Analysis Tools:** Tableau, ArcGIS, QGIS
-
----
-
-## Progressive Tech Experience
-
-- **Generation Data Training:** Experience with Voter File Data Visualization, NGP Van admin, BigQuery, Looker Studio, and Campaign Strategy
-- **CTCL Civic Data Fellowship:** Collected and cleaned ballot data for the 2018 midterms and learned about the idiosyncrasies of many state, county, and city level elections
