@@ -1,5 +1,5 @@
-# Elias Weston-Farber **Analytics Engineer**
-**Location:** Baltimore  **Phone:** 609-442-9837  **Email:** [eliaswestonfarber@gmail.com](mailto:eliaswestonfarber@gmail.com)  **GitHub:** [github.com/elias-jhsph](https://github.com/elias-jhsph)  **Portfolio:** [eliastechlabs.com](https://eliastechlabs.com)  
+# Elias Weston-Farber 
+**Position**: Analytics Engineer  **Location:** Baltimore  **Phone:** 609-442-9837  **Email:** [eliaswestonfarber@gmail.com](mailto:eliaswestonfarber@gmail.com)  **GitHub:** [github.com/elias-jhsph](https://github.com/elias-jhsph)  **Portfolio:** [eliastechlabs.com](https://eliastechlabs.com)  
 
 ## Progressive Tech Experience
 
