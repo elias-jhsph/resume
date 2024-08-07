@@ -1,5 +1,7 @@
 # Elias Weston-Farber 
-**Position**: Analytics Engineer  **Location:** Baltimore  **Phone:** 609-442-9837  **Email:** [eliaswestonfarber@gmail.com](mailto:eliaswestonfarber@gmail.com)  **GitHub:** [github.com/elias-jhsph](https://github.com/elias-jhsph)  **Portfolio:** [eliastechlabs.com](https://eliastechlabs.com)  
+**Position**: Analytics Engineer  **Location:** Baltimore  **Phone:** 609-442-9837  **Email:** [eliaswestonfarber@gmail.com](mailto:eliaswestonfarber@gmail.com)    **Portfolio:** [eliastechlabs.com](https://eliastechlabs.com)  
+
+---
 
 ## Progressive Tech Experience
 
@@ -52,7 +54,7 @@
 
 ## Technical Skills
 
+- **Technologies:** Docker, AWS, GCP, GitHub Actions, HTMX, WebSockets, Firebase
 - **Languages:** Python, R, JavaScript, SQL
 - **Frameworks/Libraries:** Flask, Node.js, PyTorch, Pandas, Tidyverse, Shiny
-- **Technologies:** Docker, AWS, GCP, GitHub Actions, HTMX, WebSockets, Firebase
 - **Data Analysis Tools:** Tableau, ArcGIS, QGIS
