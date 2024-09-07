@@ -1,12 +1,14 @@
-# Elias Weston-Farber 
-**Position**: Analytics Engineer  **Location:** Baltimore  **Phone:** 609-442-9837  **Email:** [eliaswestonfarber@gmail.com](mailto:eliaswestonfarber@gmail.com)    **Portfolio:** [eliastechlabs.com](https://eliastechlabs.com)  
+# Elias Weston-Farber
+## Data Engineer / Data Manager
 
----
+**Location:** Baltimore  
+**Phone:** 609-442-9837  
+**Email:** [elias@eliastechlabs.com](mailto:elias@eliastechlabs.com)  
 
-## Progressive Tech Experience
+Accomplished Data Engineer and Manager with a proven track record in developing sophisticated data systems and enhancing data operations using advanced cloud technologies. Expert in deploying scalable systems, automating data workflows, and leading development teams to drive innovation and efficiency in academic and research environments.
 
-- **Generation Data Training:** Experience with Voter File Data Visualization, NGP Van admin, BigQuery, Looker Studio, and Campaign Strategy
-- **CTCL Civic Data Fellowship:** Collected and cleaned ballot data for the 2018 midterms and learned about the idiosyncrasies of many state, county, and city level elections
+**GitHub:** [github.com/elias-jhsph](https://github.com/elias-jhsph)  
+**Portfolio:** [eliastechlabs.com](https://eliastechlabs.com)  
 
 ---
 
@@ -54,7 +56,15 @@
 
 ## Technical Skills
 
-- **Technologies:** Docker, AWS, GCP, GitHub Actions, HTMX, WebSockets, Firebase
 - **Languages:** Python, R, JavaScript, SQL
 - **Frameworks/Libraries:** Flask, Node.js, PyTorch, Pandas, Tidyverse, Shiny
+- **Technologies:** Docker, AWS, GCP, GitHub Actions, HTMX, WebSockets, Firebase
 - **Data Analysis Tools:** Tableau, ArcGIS, QGIS
+
+---
+
+## Personal Coding Projects
+
+- **RSmartsheet:** Developed an R package to interface with Smartsheet, used by health authorities to streamline project management.
+- **SearchIt:** Designed an application for conducting systematic web searches, utilized by NGOs to gather and analyze public data.
+- **Jarvis:** Created a packaged voice assistant application using OpenAI's GPT model, demonstrating capabilities in integrating AI into user-friendly applications.
