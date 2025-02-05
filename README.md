@@ -14,30 +14,30 @@ Accomplished Data Engineer and Manager with a proven track record in developing 
 
 ## Work Experience
 
-### Senior Cloud Engineer & Data Manager
+### Senior Cloud Engineer & Data Manager  
 **Johns Hopkins School of Public Health, Baltimore**  
 *2023 – Present*
 
-- Engineered and implemented an automated system for DSMB Report Generation, leveraging advanced task queuing mechanisms to increase reporting efficiency and reliability.
-- Led the technical split of the METRC Reports into two specialized systems, improving system responsiveness and user engagement through the implementation of HTMX and WebSockets for dynamic content updates and real-time interactions.
-- Enhanced data integration and management capabilities using Firebase, streamlining operations and improving data synchronization across distributed environments.
+- Engineered and implemented an automated system for DSMB reporting for nine different studies, replacing a manual approach that required five full-time analysts with one that now requires only a single analyst.  
+- Decreased cloud costs by 20% by migrating parts of the backend to Compute Engine while simultaneously improving system responsiveness and user engagement through the implementation of HTMX and WebSockets, enabling real-time feedback.  
+- Implemented a real-time Firebase database to ensure data synchronization across distributed environments.
 
-### Senior Research App Developer & Data Manager
+### Senior Research App Developer & Data Manager  
 **Johns Hopkins School of Public Health, Baltimore**  
 *2020 – 2023*
 
-- Managed a team of 6 developers to build a comprehensive data analytics platform on GCP, significantly enhancing data processing capabilities and user satisfaction.
-- Designed and executed a system for real-time data issue tracking and notifications, facilitating rapid response measures that supported a major publication.
-- Developed tailored analytical tools and reporting solutions for research teams, integrating technologies such as Selenium, Scrapy, and Plotly.
+- Led and managed a team of six analysts and developers, successfully setting up seven studies on an analytic platform built on GCP, automating weekly reporting.  
+- Designed and implemented a system for real-time study data issue tracking and notifications, replacing a manual static file-based system and facilitating rapid response measures that supported a major publication.  
+- Developed tailored visualization and reporting solutions for research teams, integrating technologies such as Selenium and Scrapy to extract conflicts of interest data, and Plotly to create interactive reports.
 
-### Research App Developer
+### Research App Developer  
 **Johns Hopkins School of Public Health, Baltimore**  
 *2019 – 2020*
 
-- Developed a robust data storage solution for managing administrative data across 30+ METRC studies, leveraging custom APIs and a cross-platform Electron application.
-- Automated the assessment and reporting for METRC studies using custom R packages and a Python+R Docker environment, enhancing operational efficiencies.
+- Developed a robust administrative data storage solution for managing records across 30+ METRC studies, leveraging custom Smartsheet & Google Sheets APIs and a cross-platform Electron application.  
+- Wrote multiple R packages and designed a Python+R Docker environment to standardize the computational environment for METRC study analysis.
 
-### Backend Developer and Data Scientist
+### Backend Developer and Data Scientist  
 **Civicly Envolved, Chicago**  
 *2018 – 2019*
 
@@ -56,15 +56,16 @@ Accomplished Data Engineer and Manager with a proven track record in developing 
 
 ## Technical Skills
 
-- **Languages:** Python, R, JavaScript, SQL
-- **Frameworks/Libraries:** Flask, Node.js, PyTorch, Pandas, Tidyverse, Shiny
-- **Technologies:** Docker, AWS, GCP, GitHub Actions, HTMX, WebSockets, Firebase
-- **Data Analysis Tools:** Tableau, ArcGIS, QGIS
+- **Languages:** Python, R, JavaScript, SQL  
+- **Frameworks/Libraries:** Flask, Node.js, PyTorch, Pandas, Tidyverse, Shiny, Electron, HTMX  
+- **Technologies:** Docker, AWS, GCP, GitHub Actions, Firebase, OpenAI API  
+- **Data Analysis Tools:** Tableau, ArcGIS, QGIS, Plotly, ggplot2
 
 ---
 
 ## Personal Coding Projects
 
-- **RSmartsheet:** Developed an R package to interface with Smartsheet, used by health authorities to streamline project management.
-- **SearchIt:** Designed an application for conducting systematic web searches, utilized by NGOs to gather and analyze public data.
+- **EliasTechLabs:** Website for my consulting business that uses AWS Lambda functions, CloudFront, S3, and various other tools to create an interactive, high-performance website that remains cost-effective in the cloud. (Featuring an OpenAI-powered website assistant.)  
+- **RSmartsheet:** Developed an R package to interface with Smartsheet, used by health authorities to streamline project management.  
+- **SearchIt:** Designed an application for conducting systematic web searches, utilized by NGOs to gather and analyze public data.  
 - **Jarvis:** Created a packaged voice assistant application using OpenAI's GPT model, demonstrating capabilities in integrating AI into user-friendly applications.
