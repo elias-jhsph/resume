@@ -8,6 +8,7 @@
 Accomplished Data Engineer and Manager with a proven track record in developing sophisticated data systems and enhancing data operations using advanced cloud technologies. Expert in deploying scalable systems, automating data workflows, and leading development teams to drive innovation and efficiency in academic and research environments.
 
 **GitHub:** [github.com/elias-jhsph](https://github.com/elias-jhsph)  
+**Passion:** [Baltimore Comedy Place](https://baltcomedyplace.com/blog/how-i-built-this.html)
 **Portfolio:** [eliastechlabs.com](https://eliastechlabs.com)  
 
 ---
@@ -65,6 +66,7 @@ Accomplished Data Engineer and Manager with a proven track record in developing 
 
 ## Personal Coding Projects
 
+- **Baltimore Comedy Place:** Fully autonomous, AI-powered data pipeline that scrapes, cleans, and aggregates event listings from disparate sources to create Baltimore's first comprehensive comedy show guide
 - **EliasTechLabs:** Website for my consulting business that uses AWS Lambda functions, CloudFront, S3, and various other tools to create an interactive, high-performance website that remains cost-effective in the cloud. (Featuring an OpenAI-powered website assistant.)  
 - **RSmartsheet:** Developed an R package to interface with Smartsheet, used by health authorities to streamline project management.  
 - **SearchIt:** Designed an application for conducting systematic web searches, utilized by NGOs to gather and analyze public data.  
