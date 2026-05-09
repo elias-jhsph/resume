@@ -36,7 +36,7 @@ jobs:
 
     - name: Convert Markdown to PDF
       run: |
-        python3 md_to_pdf.py README.md Resume-Elias-Weston-Farber.pdf
+        python3 md_to_pdf.py README.md CV-Elias-Weston-Farber.pdf
 
     - name: List directory contents after conversion
       run: |
@@ -46,7 +46,7 @@ jobs:
       id: git_diff
       run: |
         git fetch
-        git add Resume-Elias-Weston-Farber.pdf
+        git add CV-Elias-Weston-Farber.pdf
         if git diff --cached --exit-code; then
           echo "PDF_changed=false" >> $GITHUB_ENV
         else
@@ -58,5 +58,5 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git commit -m 'Update Resume-Elias-Weston-Farber.pdf'
+        git commit -m 'Update CV-Elias-Weston-Farber.pdf'
         git push
