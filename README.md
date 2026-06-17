@@ -6,7 +6,7 @@
 **Phone:** 609-442-9837
 **Email:** [elias@eliastechlabs.com](mailto:elias@eliastechlabs.com)
 
-**GitHub:** [github.com/elias-jhsph](https://github.com/elias-jhsph)
+**GitHub:** [github.com/eliaswestonfarber](https://github.com/eliaswestonfarber)
 **Passion:** [Baltimore Comedy Place](https://baltcomedyplace.com/blog/how-i-built-this.html)
 **Portfolio:** [eliastechlabs.com](https://eliastechlabs.com)
 
