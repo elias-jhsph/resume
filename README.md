@@ -17,7 +17,7 @@ Research engineer building AI systems for scientific evidence synthesis and clin
 ## Awards
 
 **BSPH AI Research Day Staff Award** — Johns Hopkins Bloomberg School of Public Health, March 2026
-Awarded for oral presentation of ScienceAI alongside Jeff Leek's keynote. Selected from submitted abstracts across BSPH.
+Awarded for podium presentation and poster session on ScienceAI alongside Jeff Leek's keynote. Selected from submitted abstracts across BSPH. Abstract co-authors: Renan Castillo, Katherine Frey.
 
 ---
 
@@ -28,8 +28,7 @@ Awarded for oral presentation of ScienceAI alongside Jeff Leek's keynote. Select
 - Supports GPT, Claude, and Gemini as interchangeable backends with unified provider abstraction
 - Built field-level provenance tracking: every extracted data point links to source quotes, page locations, and derivation explanations
 - Validated by reproducing Scolaro et al. (2014) meta-analysis: three frontier models independently recovered the primary finding (OR 2.15–2.37 vs. published 2.32) from 19 source papers
-- Published on PyPI (`pip install scienceai-llm`), GPL-3.0, 13 releases, full CI/CD
-- Co-authors: Renan Castillo, Katherine Frey
+- Published on PyPI (`pip install scienceai-llm`), GPL-3.0, 18 releases, full CI/CD
 
 **Baltimore Comedy Place** — Fully autonomous, AI-powered data pipeline that scrapes, cleans, and aggregates event listings from disparate sources to create Baltimore's first comprehensive comedy show guide
 
@@ -84,10 +83,10 @@ Awarded for oral presentation of ScienceAI alongside Jeff Leek's keynote. Select
 3. Levy JF, ..., O'Hara NN; METRC (incl. **Weston-Farber E**). "Cost Savings of Switching to Aspirin for Thromboprophylaxis in Orthopaedic Trauma Patients." **J Am Acad Orthop Surg**, 2026.
 4. O'Hara NN, Frey KP, ..., O'Toole RV; METRC (incl. **Weston-Farber E**). "Effect of Aspirin Versus Low-Molecular-Weight Heparin Thromboprophylaxis on Medication Satisfaction." **J Bone Joint Surg Am**, 2024.
 5. O'Hara NN, O'Toole RV, ..., Stein DM; METRC (incl. **Weston-Farber E**). "Risk-Stratified Thromboprophylaxis Effects of Aspirin Versus Low-Molecular-Weight Heparin." **J Trauma Acute Care Surg**, 2024.
-6. O'Toole RV, Stein DM, ..., **Weston-Farber EM**, ..., Castillo RC; METRC. "Aspirin or Low-Molecular-Weight Heparin for Thromboprophylaxis after a Fracture." **N Engl J Med**, 2023.
+6. O'Toole RV, Stein DM, ..., Castillo RC; METRC (incl. **Weston-Farber EM**). "Aspirin or Low-Molecular-Weight Heparin for Thromboprophylaxis after a Fracture." **N Engl J Med**, 2023.
 7. Staguhn ED, **Weston-Farber E**, Castillo RC. "The Impact of Statewide School Closures on COVID-19 Infection Rates." **Am J Infect Control**, 2021.
 8. Castillo RC, Staguhn ED, **Weston-Farber E**. "The Effect of State-Level Stay-at-Home Orders on COVID-19 Infection Rates." **Am J Infect Control**, 2020.
-9. Tarpada SP, O'Hara NN, ..., Marvel D; METRC (incl. **Weston-Farber E**). "Effect of Aspirin Versus Low-Molecular-Weight Heparin for Thromboprophylaxis in High-Risk and Fracture Location Subpopulations." **J Orthop Trauma**, 2025.
+9. Tarpada SP, O'Hara NN, ..., Marvel D; METRC (incl. **Weston-Farber E**). "Effect of Aspirin Versus Low-Molecular-Weight Heparin for Thromboprophylaxis in High-Risk and Fracture Location Subpopulations." **J Orthop Trauma**, 2026. *(Podium presentation, OTA 2024; Bovill Award)*
 
 **In Press / Under Review**
 
