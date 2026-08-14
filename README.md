@@ -7,6 +7,7 @@
 **Email:** [elias@eliastechlabs.com](mailto:elias@eliastechlabs.com)
 
 **GitHub:** [github.com/eliaswestonfarber](https://github.com/eliaswestonfarber)
+**ORCID:** [0000-0002-8452-9432](https://orcid.org/0000-0002-8452-9432)
 **Passion:** [Baltimore Comedy Place](https://baltcomedyplace.com/blog/how-i-built-this.html)
 **Portfolio:** [eliastechlabs.com](https://eliastechlabs.com)
 
@@ -28,7 +29,7 @@ Awarded for podium presentation and poster session on ScienceAI alongside Jeff L
 - Supports GPT, Claude, and Gemini as interchangeable backends with unified provider abstraction
 - Built field-level provenance tracking: every extracted data point links to source quotes, page locations, and derivation explanations
 - Validated by reproducing Scolaro et al. (2014) meta-analysis: three frontier models independently recovered the primary finding (OR 2.15–2.37 vs. published 2.32) from 19 source papers
-- Published on PyPI (`pip install scienceai-llm`), GPL-3.0, 18 releases, full CI/CD
+- Published on PyPI (`pip install scienceai-llm`), GPL-3.0, 18 releases, full CI/CD; archived on Zenodo (DOI: [10.5281/zenodo.21938772](https://doi.org/10.5281/zenodo.21938772))
 
 **Baltimore Comedy Place** — Fully autonomous, AI-powered data pipeline that scrapes, cleans, and aggregates event listings from disparate sources to create Baltimore's first comprehensive comedy show guide
 
