@@ -4,12 +4,11 @@
 
 **Location:** Baltimore, MD
 **Phone:** 609-442-9837
-**Email:** [elias@eliastechlabs.com](mailto:elias@eliastechlabs.com)
+**Email:** [eliaswestonfarber@gmail.com](mailto:eliaswestonfarber@gmail.com)
 
 **GitHub:** [github.com/eliaswestonfarber](https://github.com/eliaswestonfarber)
 **ORCID:** [0000-0002-8452-9432](https://orcid.org/0000-0002-8452-9432)
-**Passion:** [Baltimore Comedy Place](https://baltcomedyplace.com/blog/how-i-built-this.html)
-**Portfolio:** [eliastechlabs.com](https://eliastechlabs.com)
+**Publications:** [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/elias.weston-farber.1/bibliography/public/)
 
 Research engineer building AI systems for scientific evidence synthesis and clinical trial data infrastructure. Created ScienceAI, an open-source agentic harness that coordinates frontier language models for systematic literature analysis with provenance tracking. 9 peer-reviewed publications including NEJM and JAMA. BSPH AI Research Day Staff Award, 2026.
 
@@ -35,7 +34,7 @@ Research engineer building AI systems for scientific evidence synthesis and clin
 
 **Baltimore Comedy Place** — Fully autonomous, AI-powered data pipeline that scrapes, cleans, and aggregates event listings from disparate sources to create Baltimore's first comprehensive comedy show guide
 
-**EliasTechLabs** — Consulting business website using AWS Lambda, CloudFront, S3, featuring an OpenAI-powered website assistant
+**EliasTechLabs** — Serverless personal site built on AWS Lambda, CloudFront, and S3, featuring an LLM-powered website assistant
 
 **RSmartsheet** — R package interfacing with Smartsheet API, used by health authorities for project management
 
