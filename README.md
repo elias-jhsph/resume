@@ -49,7 +49,7 @@ Production experience across all three major clouds: **Azure** (current CAS plat
 **CAS Platform Migration, GCP → Azure** *(2026)*, as architect and lead engineer
 - Migrated METRC's multi-study data and reporting platform (26 TB) from GCP to Azure with a zero-downtime DNS cutover: App Engine → Container Apps, Compute Engine → Container Instances (on-demand 16-vCPU/64 GB self-stopping worker), Firebase → Azure SQL, Cloud Storage → Blob Storage, Google Workspace → SharePoint via Microsoft Graph
 - Replaced Google OAuth with institutional single sign-on (Shibboleth OIDC), including an MSAL token-delegation workaround for enterprise RBAC constraints
-- Hardened to institutional compliance standards: secretless container images via Key Vault and managed identities, VNet-injected apps with private endpoints and locked-down database network access, and centralized audit logging with 365-day retention and alerting
+- Engineered a defense-in-depth security architecture: secretless container images via Key Vault and managed identities, VNet-injected apps with private endpoints and locked-down database network access, and centralized audit logging with 365-day retention and alerting
 - Captured the full production footprint (33 resources) in Terraform with zero-drift verification and a terraform-first change policy
 - Authored the disaster-recovery/business-continuity plan, PHI compliance plan, and institutional IT risk documentation for security review
 
@@ -62,7 +62,7 @@ Production experience across all three major clouds: **Azure** (current CAS plat
 *2023 – Present*
 
 - Manage cloud infrastructure and data pipelines powering multi-site randomized controlled trials across 70+ Level I trauma centers nationwide
-- Architected and led the 2026 migration of the CAS platform from GCP to Azure, re-platforming every service with a zero-downtime cutover and bringing the environment to institutional compliance standards (detail under Cloud Platforms)
+- Architected and led the 2026 migration of the CAS platform from GCP to Azure, re-platforming every service with a zero-downtime cutover (detail under Cloud Platforms)
 - Engineered an automated DSMB reporting system for nine studies, replacing a manual approach that required five full-time analysts with one that now requires only a single analyst
 - Decreased cloud costs by 20% by migrating parts of the backend to Compute Engine while simultaneously improving system responsiveness and user engagement through HTMX and WebSockets, enabling real-time feedback
 - Implemented a real-time Firebase database to ensure data synchronization across distributed environments
