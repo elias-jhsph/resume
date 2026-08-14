@@ -1,6 +1,6 @@
 # Elias Weston-Farber
 
-## Technical Lead — Scientific AI & Clinical Trial Data Infrastructure
+## Technical Lead: Scientific AI & Clinical Trial Data Infrastructure
 
 **Location:** Baltimore, MD
 **Phone:** 609-442-9837
@@ -16,40 +16,40 @@ Technical lead for METRC's clinical trial data and analysis infrastructure: arch
 
 ## Publications & Awards
 
-**9 peer-reviewed publications** including **NEJM** and **JAMA** — 2 as author; 7 as a named METRC consortium collaborator, credited for designing and operating the clinical trial data pipelines, quality systems, and DSMB reporting infrastructure underlying multi-center randomized trials, including the 12,211-patient PREVENT CLOT trial (NEJM 2023) and the TOBRA trial (JAMA 2026) • **4 manuscripts in press / under review** (METRC) • **1 DOI-archived open-source software package** ([10.5281/zenodo.21938772](https://doi.org/10.5281/zenodo.21938772))
+**9 peer-reviewed publications** including **NEJM** and **JAMA**: 2 as author; 7 as a named METRC consortium collaborator, credited for designing and operating the clinical trial data pipelines, quality systems, and DSMB reporting infrastructure underlying multi-center randomized trials, including the 12,211-patient PREVENT CLOT trial (NEJM 2023) and the TOBRA trial (JAMA 2026) • **4 manuscripts in press / under review** (METRC) • **1 DOI-archived open-source software package** ([10.5281/zenodo.21938772](https://doi.org/10.5281/zenodo.21938772))
 
 **Full publication list:** [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/elias.weston-farber.1/bibliography/public/)
 
-**BSPH AI Research Day Staff Award** — Johns Hopkins Bloomberg School of Public Health, March 2026. Awarded for podium presentation and poster session on ScienceAI alongside Jeff Leek's keynote. Selected from submitted abstracts across BSPH. Abstract co-authors: Renan Castillo, Katherine Frey.
+**BSPH AI Research Day Staff Award**, Johns Hopkins Bloomberg School of Public Health, March 2026. Awarded for podium presentation and poster session on ScienceAI alongside Jeff Leek's keynote. Selected from submitted abstracts across BSPH. Abstract co-authors: Renan Castillo, Katherine Frey.
 
 ---
 
 ## Selected Projects
 
-**ScienceAI** — Open-Source Agentic Harness for Scientific Literature Analysis *(2024–present)*
+**ScienceAI**: Open-Source Agentic Harness for Scientific Literature Analysis *(2024–present)*
 - Designed and built a multi-agent orchestration system for systematic review and meta-analysis tasks: PI orchestrator delegates to Analyst Agents that perform structured data extraction with reflection/validation
 - Supports GPT, Claude, and Gemini as interchangeable backends with unified provider abstraction; field-level provenance tracking links every extracted data point to source quotes, page locations, and derivation explanations
 - Validated by reproducing Scolaro et al. (2014) meta-analysis: three frontier models independently recovered the primary finding (OR 2.15–2.37 vs. published 2.32) from 19 source papers
 - Published on PyPI (`pip install scienceai-llm`), GPL-3.0, 18 releases, full CI/CD, archived on Zenodo
 
-**Baltimore Comedy Place** — Fully autonomous, AI-powered data pipeline that scrapes, cleans, and aggregates event listings from disparate sources to create Baltimore's first comprehensive comedy show guide
+**Baltimore Comedy Place**: Fully autonomous, AI-powered data pipeline that scrapes, cleans, and aggregates event listings from disparate sources to create Baltimore's first comprehensive comedy show guide
 
-**EliasTechLabs** — Serverless personal site built on AWS Lambda, CloudFront, and S3, featuring an LLM-powered website assistant
+**EliasTechLabs**: Serverless personal site built on AWS Lambda, CloudFront, and S3, featuring an LLM-powered website assistant
 
-**RSmartsheet** — R package interfacing with Smartsheet API, used by health authorities for project management
+**RSmartsheet**: R package interfacing with Smartsheet API, used by health authorities for project management
 
-**SearchIt** — Systematic web search application used by NGOs for public data gathering and analysis
+**SearchIt**: Systematic web search application used by NGOs for public data gathering and analysis
 
 ---
 
-## Cloud Platforms — Azure, GCP, AWS
+## Cloud Platforms: Azure, GCP, AWS
 
 Production experience across all three major clouds: **Azure** (current CAS platform), **GCP** (prior CAS platform, 2019–2026), **AWS** (serverless Lambda/CloudFront/S3 deployments).
 
-**CAS Platform Migration, GCP → Azure** *(2026)* — architect and lead engineer
+**CAS Platform Migration, GCP → Azure** *(2026)*, as architect and lead engineer
 - Migrated METRC's multi-study data and reporting platform (26 TB) from GCP to Azure with a zero-downtime DNS cutover: App Engine → Container Apps, Compute Engine → Container Instances (on-demand 16-vCPU/64 GB self-stopping worker), Firebase → Azure SQL, Cloud Storage → Blob Storage, Google Workspace → SharePoint via Microsoft Graph
 - Replaced Google OAuth with institutional single sign-on (Shibboleth OIDC), including an MSAL token-delegation workaround for enterprise RBAC constraints
-- Hardened to institutional compliance standards: secretless container images via Key Vault and managed identities, VNet-injected apps with private endpoints, SQL firewall reduced from 94 rules to 2, centralized audit logging with 365-day retention and alerting
+- Hardened to institutional compliance standards: secretless container images via Key Vault and managed identities, VNet-injected apps with private endpoints and locked-down database network access, and centralized audit logging with 365-day retention and alerting
 - Captured the full production footprint (33 resources) in Terraform with zero-drift verification and a terraform-first change policy
 - Authored the disaster-recovery/business-continuity plan, PHI compliance plan, and institutional IT risk documentation for security review
 
@@ -62,6 +62,7 @@ Production experience across all three major clouds: **Azure** (current CAS plat
 *2023 – Present*
 
 - Manage cloud infrastructure and data pipelines powering multi-site randomized controlled trials across 70+ Level I trauma centers nationwide
+- Architected and led the 2026 migration of the CAS platform from GCP to Azure, re-platforming every service with a zero-downtime cutover and bringing the environment to institutional compliance standards (detail under Cloud Platforms)
 - Engineered an automated DSMB reporting system for nine studies, replacing a manual approach that required five full-time analysts with one that now requires only a single analyst
 - Decreased cloud costs by 20% by migrating parts of the backend to Compute Engine while simultaneously improving system responsiveness and user engagement through HTMX and WebSockets, enabling real-time feedback
 - Implemented a real-time Firebase database to ensure data synchronization across distributed environments
@@ -91,7 +92,7 @@ Production experience across all three major clouds: **Azure** (current CAS plat
 
 ## Education
 
-**University of Maryland Baltimore County**, Baltimore — *2018*
+**University of Maryland Baltimore County**, Baltimore, *2018*
 *Bachelor of Science in Environmental Science & Geography*
 *Bachelor of Arts in Political Science*
 
