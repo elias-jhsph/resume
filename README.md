@@ -1,6 +1,6 @@
 # Elias Weston-Farber
 
-## Research Engineer — Scientific AI & Clinical Trial Data Infrastructure
+## Technical Lead — Scientific AI & Clinical Trial Data Infrastructure
 
 **Location:** Baltimore, MD
 **Phone:** 609-442-9837
@@ -10,7 +10,7 @@
 **ORCID:** [0000-0002-8452-9432](https://orcid.org/0000-0002-8452-9432)
 **Publications:** [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/elias.weston-farber.1/bibliography/public/)
 
-Research engineer building AI systems for scientific evidence synthesis and clinical trial data infrastructure. Created ScienceAI, an open-source agentic harness that coordinates frontier language models for systematic literature analysis with provenance tracking. 9 peer-reviewed publications including NEJM and JAMA. BSPH AI Research Day Staff Award, 2026.
+Technical lead for METRC's clinical trial data and analysis infrastructure: architect of the CAS platform and analysis pipeline powering multi-site randomized trials across 70+ trauma centers, and previously manager of a six-person analyst/developer team. Created ScienceAI, an open-source agentic harness that coordinates frontier language models for systematic literature analysis with provenance tracking. 9 peer-reviewed publications including NEJM and JAMA. BSPH AI Research Day Staff Award, 2026.
 
 ---
 
