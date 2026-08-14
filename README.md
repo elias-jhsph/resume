@@ -15,10 +15,13 @@ Research engineer building AI systems for scientific evidence synthesis and clin
 
 ---
 
-## Awards
+## Publications & Awards
 
-**BSPH AI Research Day Staff Award** — Johns Hopkins Bloomberg School of Public Health, March 2026
-Awarded for podium presentation and poster session on ScienceAI alongside Jeff Leek's keynote. Selected from submitted abstracts across BSPH. Abstract co-authors: Renan Castillo, Katherine Frey.
+**9 peer-reviewed publications** (2 authored, 7 as METRC consortium collaborator — lead data engineer at the coordinating center), including **NEJM** and **JAMA** • **4 manuscripts in press / under review** (METRC) • **1 DOI-archived open-source software package** ([10.5281/zenodo.21938772](https://doi.org/10.5281/zenodo.21938772))
+
+**Full publication list:** [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/elias.weston-farber.1/bibliography/public/)
+
+**BSPH AI Research Day Staff Award** — Johns Hopkins Bloomberg School of Public Health, March 2026. Awarded for podium presentation and poster session on ScienceAI alongside Jeff Leek's keynote. Selected from submitted abstracts across BSPH. Abstract co-authors: Renan Castillo, Katherine Frey.
 
 ---
 
@@ -26,10 +29,9 @@ Awarded for podium presentation and poster session on ScienceAI alongside Jeff L
 
 **ScienceAI** — Open-Source Agentic Harness for Scientific Literature Analysis *(2024–present)*
 - Designed and built a multi-agent orchestration system for systematic review and meta-analysis tasks: PI orchestrator delegates to Analyst Agents that perform structured data extraction with reflection/validation
-- Supports GPT, Claude, and Gemini as interchangeable backends with unified provider abstraction
-- Built field-level provenance tracking: every extracted data point links to source quotes, page locations, and derivation explanations
+- Supports GPT, Claude, and Gemini as interchangeable backends with unified provider abstraction; field-level provenance tracking links every extracted data point to source quotes, page locations, and derivation explanations
 - Validated by reproducing Scolaro et al. (2014) meta-analysis: three frontier models independently recovered the primary finding (OR 2.15–2.37 vs. published 2.32) from 19 source papers
-- Published on PyPI (`pip install scienceai-llm`), GPL-3.0, 18 releases, full CI/CD; archived on Zenodo (DOI: [10.5281/zenodo.21938772](https://doi.org/10.5281/zenodo.21938772))
+- Published on PyPI (`pip install scienceai-llm`), GPL-3.0, 18 releases, full CI/CD, archived on Zenodo
 
 **Baltimore Comedy Place** — Fully autonomous, AI-powered data pipeline that scrapes, cleans, and aggregates event listings from disparate sources to create Baltimore's first comprehensive comedy show guide
 
@@ -49,7 +51,7 @@ Awarded for podium presentation and poster session on ScienceAI alongside Jeff L
 
 - Manage cloud infrastructure and data pipelines powering multi-site randomized controlled trials across 70+ Level I trauma centers nationwide
 - Engineered an automated DSMB reporting system for nine studies, replacing a manual approach that required five full-time analysts with one that now requires only a single analyst
-- Decreased cloud costs by 20% by migrating parts of the backend to Compute Engine while simultaneously improving system responsiveness through HTMX and WebSockets
+- Decreased cloud costs by 20% by migrating parts of the backend to Compute Engine while simultaneously improving system responsiveness and user engagement through HTMX and WebSockets, enabling real-time feedback
 - Implemented a real-time Firebase database to ensure data synchronization across distributed environments
 
 ### Senior Research Application Developer & Data Manager
@@ -58,7 +60,7 @@ Awarded for podium presentation and poster session on ScienceAI alongside Jeff L
 
 - Led and managed a team of six analysts and developers, successfully setting up seven studies on an analytic platform built on GCP, automating weekly reporting
 - Designed and implemented a system for real-time study data issue tracking and notifications, replacing a manual static file-based system and facilitating rapid response measures that supported a major publication
-- Developed tailored visualization and reporting solutions for research teams, integrating Selenium, Scrapy, and Plotly
+- Developed tailored visualization and reporting solutions for research teams, integrating technologies such as Selenium and Scrapy to extract conflicts of interest data, and Plotly to create interactive reports
 
 ### Research Application Developer
 **Johns Hopkins Bloomberg School of Public Health**
@@ -71,30 +73,7 @@ Awarded for podium presentation and poster session on ScienceAI alongside Jeff L
 **Civicly Involved, Chicago**
 *2018 – 2019*
 
-- Led team designing API-based data integration and management solutions including geospatial analysis on Google Cloud
-
----
-
-## Publications
-
-*Role on METRC publications: Lead data engineer at the coordinating center, managing the clinical trial data pipelines, quality systems, and reporting infrastructure underlying each study. In consortium trials, named authorship reflects site PIs and study leads; coordinating center staff who build and maintain the shared data infrastructure are listed as collaborators.*
-
-1. O'Toole RV, O'Hara NN, ..., **Weston-Farber E**, ..., Castillo RC; METRC. "Intrawound Tobramycin Plus Vancomycin to Prevent Surgical Site Infection in Tibial Fractures: The TOBRA Randomized Clinical Trial." **JAMA**, 2026.
-2. Levy JF, ..., Castillo RC, O'Hara NN; METRC (incl. **Weston-Farber E**). "The Cost-Effectiveness of Enoxaparin Compared with Aspirin for Thromboprophylaxis." **J Bone Joint Surg Am**, 2026.
-3. Levy JF, ..., O'Hara NN; METRC (incl. **Weston-Farber E**). "Cost Savings of Switching to Aspirin for Thromboprophylaxis in Orthopaedic Trauma Patients." **J Am Acad Orthop Surg**, 2026.
-4. O'Hara NN, Frey KP, ..., O'Toole RV; METRC (incl. **Weston-Farber E**). "Effect of Aspirin Versus Low-Molecular-Weight Heparin Thromboprophylaxis on Medication Satisfaction." **J Bone Joint Surg Am**, 2024.
-5. O'Hara NN, O'Toole RV, ..., Stein DM; METRC (incl. **Weston-Farber E**). "Risk-Stratified Thromboprophylaxis Effects of Aspirin Versus Low-Molecular-Weight Heparin." **J Trauma Acute Care Surg**, 2024.
-6. O'Toole RV, Stein DM, ..., Castillo RC; METRC (incl. **Weston-Farber EM**). "Aspirin or Low-Molecular-Weight Heparin for Thromboprophylaxis after a Fracture." **N Engl J Med**, 2023.
-7. Staguhn ED, **Weston-Farber E**, Castillo RC. "The Impact of Statewide School Closures on COVID-19 Infection Rates." **Am J Infect Control**, 2021.
-8. Castillo RC, Staguhn ED, **Weston-Farber E**. "The Effect of State-Level Stay-at-Home Orders on COVID-19 Infection Rates." **Am J Infect Control**, 2020.
-9. Tarpada SP, O'Hara NN, ..., Marvel D; METRC (incl. **Weston-Farber E**). "Effect of Aspirin Versus Low-Molecular-Weight Heparin for Thromboprophylaxis in High-Risk and Fracture Location Subpopulations." **J Orthop Trauma**, 2026. *(Podium presentation, OTA 2024; Bovill Award)*
-
-**In Press / Under Review**
-
-10. "A Prospective Randomized Trial to Assess Early versus Delayed Weight Bearing Following Operatively Treated Ankle Fractures in the United States." METRC. *(Bovill Award, OTA 2025)*
-11. "The Effect of Hemorrhage Magnitude on the Immunologic Response in Polytraumatized Patients with Destabilizing Orthopaedic Injuries." METRC.
-12. "Active Bleeding on Admission CT is Correlated with Blood Transfusion Needs in the Setting of Multi-System Trauma." METRC.
-13. "Early Cumulative Hemorrhagic 'Shock Volume' is Associated with Organ Dysfunction in Polytrauma Patients." METRC.
+- Led a team of interns in designing and implementing API-based data integration and management solutions, including geospatial data analysis using Google Cloud technologies
 
 ---
 
