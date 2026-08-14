@@ -16,7 +16,7 @@ Research engineer building AI systems for scientific evidence synthesis and clin
 
 ## Publications & Awards
 
-**9 peer-reviewed publications** (2 authored, 7 as METRC consortium collaborator — lead data engineer at the coordinating center), including **NEJM** and **JAMA** • **4 manuscripts in press / under review** (METRC) • **1 DOI-archived open-source software package** ([10.5281/zenodo.21938772](https://doi.org/10.5281/zenodo.21938772))
+**9 peer-reviewed publications** including **NEJM** and **JAMA** — 2 as author; 7 as a named METRC consortium collaborator, credited for designing and operating the clinical trial data pipelines, quality systems, and DSMB reporting infrastructure underlying multi-center randomized trials, including the 12,211-patient PREVENT CLOT trial (NEJM 2023) and the TOBRA trial (JAMA 2026) • **4 manuscripts in press / under review** (METRC) • **1 DOI-archived open-source software package** ([10.5281/zenodo.21938772](https://doi.org/10.5281/zenodo.21938772))
 
 **Full publication list:** [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/elias.weston-farber.1/bibliography/public/)
 
@@ -39,6 +39,19 @@ Research engineer building AI systems for scientific evidence synthesis and clin
 **RSmartsheet** — R package interfacing with Smartsheet API, used by health authorities for project management
 
 **SearchIt** — Systematic web search application used by NGOs for public data gathering and analysis
+
+---
+
+## Cloud Platforms — Azure, GCP, AWS
+
+Production experience across all three major clouds: **Azure** (current CAS platform), **GCP** (prior CAS platform, 2019–2026), **AWS** (serverless Lambda/CloudFront/S3 deployments).
+
+**CAS Platform Migration, GCP → Azure** *(2026)* — architect and lead engineer
+- Migrated METRC's multi-study data and reporting platform (26 TB) from GCP to Azure with a zero-downtime DNS cutover: App Engine → Container Apps, Compute Engine → Container Instances (on-demand 16-vCPU/64 GB self-stopping worker), Firebase → Azure SQL, Cloud Storage → Blob Storage, Google Workspace → SharePoint via Microsoft Graph
+- Replaced Google OAuth with institutional single sign-on (Shibboleth OIDC), including an MSAL token-delegation workaround for enterprise RBAC constraints
+- Hardened to institutional compliance standards: secretless container images via Key Vault and managed identities, VNet-injected apps with private endpoints, SQL firewall reduced from 94 rules to 2, centralized audit logging with 365-day retention and alerting
+- Captured the full production footprint (33 resources) in Terraform with zero-drift verification and a terraform-first change policy
+- Authored the disaster-recovery/business-continuity plan, PHI compliance plan, and institutional IT risk documentation for security review
 
 ---
 
@@ -89,5 +102,5 @@ Research engineer building AI systems for scientific evidence synthesis and clin
 - **Languages:** Python, R, JavaScript, SQL
 - **AI/ML:** Multi-agent LLM orchestration, provider API integration (OpenAI, Anthropic, Google), structured data extraction, prompt engineering, evaluation design
 - **Frameworks:** Flask, Node.js, PyTorch, Pandas, Tidyverse, Shiny, Electron, HTMX
-- **Infrastructure:** Docker, AWS, GCP, GitHub Actions, Firebase, WebSockets
+- **Infrastructure:** Docker, Azure (Container Apps, Azure SQL, Key Vault, VNet), GCP, AWS, Terraform, GitHub Actions, Firebase, WebSockets
 - **Data & Analysis:** Tableau, ArcGIS, QGIS, Plotly, ggplot2
