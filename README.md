@@ -103,5 +103,5 @@ Production experience across all three major clouds: **Azure** (current CAS plat
 - **Languages:** Python, R, JavaScript, SQL
 - **AI/ML:** Multi-agent LLM orchestration, provider API integration (OpenAI, Anthropic, Google), structured data extraction, prompt engineering, evaluation design
 - **Frameworks:** Flask, Node.js, PyTorch, Pandas, Tidyverse, Shiny, Electron, HTMX
-- **Infrastructure:** Docker, Azure (Container Apps, Azure SQL, Key Vault, VNet), GCP, AWS, Terraform, GitHub Actions, Firebase, WebSockets
+- **Infrastructure:** Docker, Azure, GCP, AWS, Terraform, GitHub Actions, Firebase, WebSockets
 - **Data & Analysis:** Tableau, ArcGIS, QGIS, Plotly, ggplot2
